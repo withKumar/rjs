@@ -2,6 +2,25 @@
   text-align: center;
 }
 
+.demobox {
+  background-color: brown;
+  display: block;
+  width : 200px;
+  height: 450px;
+  margin: 5px;
+  width: 50%;
+  align-items: center;
+}
+
+.submit {
+  background-color: red;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  color : white;
+  width : 100px;
+  height: 65px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
